@@ -1,48 +1,50 @@
-<h1 align="left">👨🏻‍💻Guilherme Andrade</h1>
+<h1 align="center">👨🏻‍💻Guilherme Andrade</h1>
 
 ###
 
-<p align="left">Meu nome é Guilherme, tenho 20 anos, sou de São José do Rio Preto-SP, estou cursando ciências da computação(2/8) na UNIP. Aqui está alguns projetos pessoais meus e projetos para trabalhos da faculdade.</p>
+<p align="center">Prazer, eu sou o  Guilherme, tenho 20 anos, e sou de São José do Rio Preto-SP. <br>Estou fazendo uma graduação em ciências da computação(2/8) na UNIP. Aqui está alguns projetos pessoais criados para poder colocar em prática meu aprendizado e projetos de trabalhos da faculdade.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/guiandrade12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_gmoraiss_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
+  <a href="https://www.instagram.com/gui.andrade._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h1 align="center"></h1>
 
 ###
 
-<h3 align="left">💻 Linguagens e Tecnologias</h3>
+<h4 align="center">💻Linguagens e Frameworks</h4>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django logo"  />
 </div>
 
 ###
 
-<h3 align="left">📈 Estatísticas</h3>
+<h4 align="center">📊Estatísticas</h4>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeAndrade07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeAndrade07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div>
 
 ###
