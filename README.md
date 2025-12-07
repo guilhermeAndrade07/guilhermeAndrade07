@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Prazer, eu sou o  Guilherme, tenho 20 anos, e sou de São José do Rio Preto-SP. <br>Estou fazendo uma graduação em ciências da computação(2/8) na UNIP. Aqui está alguns projetos pessoais criados para poder colocar em prática meu aprendizado e projetos de trabalhos da faculdade.</p>
+<p align="center">Prazer, eu sou o  Guilherme, tenho 20 anos, e sou de São José do Rio Preto-SP. <br>Estou fazendo uma graduação em ciências da computação(3/8) na UNIP. Aqui está alguns projetos pessoais criados para poder colocar em prática meu aprendizado e projetos de trabalhos da faculdade.</p>
 
 ###
 
@@ -37,15 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django logo"  />
 </div>
 
-###
-
-<h4 align="center">📊Estatísticas</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeAndrade07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
-</div>
 
 ###
 
