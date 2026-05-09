@@ -69,6 +69,23 @@
 
 <hr/>
 
+ ## Github Stats:
+
+<p align="center">
+  <a href="https://github.com/guilhermeAndrade07">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeAndrade07&bg_color=0D1117&hide_border=true&color=11FF00&line=CCC&point=FFFFFF&area_color=8F0000&border_radius=24.5&title_color=CCC&border_radius=20px"/>
+  </a> 
+</p>
+
+
+
+ <p align="center">
+   <a href="https://github.com/guilhermeAndrade07"> 
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeAndrade07&theme=onedark&hide_border=true&background=0D1117&stroke=0D690D&ring=0D690D&fire=0D690D&currStreakLabel=CCCCCC&currStreakNum=FFFFFF&sideLabels=CCCCCC&sideNums=FFFFFF&dates=888888" /> 
+   </a>  
+ </p>
+
+<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeAndrade07/guilhermeAndrade07/output/pacman-contribution-graph-dark.svg">
