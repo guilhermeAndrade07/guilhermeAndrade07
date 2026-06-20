@@ -20,9 +20,11 @@
 <ul>
   <li>Prazer, meu nome é Guilherme Andrade, sou <b>Desevolvedor Backend</b> com foco em <b>Python (Django)</b>.</li>
   <li>Estou graduando em <b>Ciência da computação(3/8).</b> 
-  <li><b>Backend:</b> Experiência em Python com Django, Django Rest Framework.</li>
-  <li><b>Frontend:</b> Experiência em JavaScript e Angular</li>
-  <li><b>Cloud & DevOps:</b> Docker</li>
+  <li><b>Backend:</b> Experiência em Python • Django • Django REST Framework </li>
+  <li><b>Banco de Dados:</b> Experiência em PostgreSQL • SQL • Redis</li>
+  <li><b>IA:</b> Experiência em LangChain • Google Gemini • RAG • ChromaDB</li>
+  <li><b>Frontend:</b> Experiência em JavaScript • Angular • HTML • CSS • Bootstrap</li>
+  <li><b>Cloud & DevOps:</b> Experiência em Docker • Docker Compose • Git</li>
   <li><b>Local:</b> São José do Rio Preto, SP — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
 
